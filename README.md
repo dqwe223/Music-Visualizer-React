@@ -1,4 +1,4 @@
-<img width="1920" height="912" alt="Screenshot (311)" src="https://github.com/user-attachments/assets/09f9d77e-8f34-48ce-900d-47cfe6feaf31" />
+<img width="1920" height="912" alt="Screenshot (311)" src="Screenshot (311).png" />
 # 🎵 Music Reactive LED Wall
 
 A stunning web application that creates a real-time reactive LED wall visualization based on music audio analysis. Watch as your music comes to life through a dynamic grid of LEDs that respond to frequency, intensity, and rhythm!
