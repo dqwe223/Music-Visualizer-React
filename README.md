@@ -11,11 +11,11 @@ A stunning web application that creates a real-time reactive LED wall visualizat
 - **Audio Controls**: Full playback controls with progress bar and volume slider
 - **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
 - **Beautiful Animations**: Smooth transitions and reactive animations using Framer Motion 
-- **Modern UI**: Dark theme with gradient effects and glassmorphism design
+- **Modern UI**: Dark theme with gradient effects and glassmorphism design 
 
 ## 🚀 Getting Started
 
-<img width="1920" height="912" alt="Screenshot (311).png" />
+<img width="1920" height="912" alt="Screenshot (311)" src="Screenshot (311).png" />
 
 ### Prerequisites
 
