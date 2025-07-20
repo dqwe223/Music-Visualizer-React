@@ -1,4 +1,4 @@
-<img width="1920" height="912" alt="Screenshot (311)" src="Screenshot (311).png" />
+<img width="1920" height="912" alt="Screenshot (311)" src="firefox_ViWd2kGvDU.gif" />
 # 🎵 Music Reactive LED Wall
 
 A stunning web application that creates a real-time reactive LED wall visualization based on music audio analysis. Watch as your music comes to life through a dynamic grid of LEDs that respond to frequency, intensity, and rhythm!
@@ -10,12 +10,12 @@ A stunning web application that creates a real-time reactive LED wall visualizat
 - **Drag & Drop Upload**: Easy music file upload with drag and drop support
 - **Audio Controls**: Full playback controls with progress bar and volume slider
 - **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
-- **Beautiful Animations**: Smooth transitions and reactive animations using Framer Motion
+- **Beautiful Animations**: Smooth transitions and reactive animations using Framer Motion 
 - **Modern UI**: Dark theme with gradient effects and glassmorphism design
 
 ## 🚀 Getting Started
 
-<img width="1920" height="912" alt="Screenshot (311)" src="https://github.com/user-attachments/assets/09f9d77e-8f34-48ce-900d-47cfe6feaf31" />
+<img width="1920" height="912" alt="Screenshot (311).png" />
 
 ### Prerequisites
 
