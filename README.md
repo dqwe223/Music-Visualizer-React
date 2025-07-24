@@ -132,32 +132,7 @@ const getLEDColor = (index) => {
 - M4A
 - Any format supported by the browser's audio element
 
-## 🚀 Deployment
 
-To build the application for production:
 
-```bash
-npm run build
-```
-
-The built files will be in the `build` directory, ready for deployment to any static hosting service.
-
-## 🤝 Contributing
-
-Feel free to contribute to this project by:
-- Reporting bugs
-- Suggesting new features
-- Submitting pull requests
-- Improving documentation
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 🎉 Enjoy Your Music!
-
-Create your own music visualizer and watch your favorite songs come to life through the reactive LED wall. Perfect for parties, music production, or just enjoying your music with a visual twist!
-
----
 
 **Made with ❤️ and React**
