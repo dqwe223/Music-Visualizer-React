@@ -15,7 +15,7 @@ A stunning web application that creates a real-time reactive LED wall visualizat
 
 ## 🚀 Getting Started
 
-<img width="1920" height="912" alt="Screenshot (311)" src="Screenshot (311).png" />
+<img width="1920" height="912" alt="Screenshot (311)" src="public/Screenshot (311).png" />
 
 ### Prerequisites
 
